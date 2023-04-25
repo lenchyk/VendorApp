@@ -1,0 +1,6 @@
+framework module WrappingHStackLayout {
+  umbrella header "WrappingHStackLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}

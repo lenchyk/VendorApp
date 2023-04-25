@@ -1,0 +1,31 @@
+PODS:
+  - SDWebImage (5.15.6):
+    - SDWebImage/Core (= 5.15.6)
+  - SDWebImage/Core (5.15.6)
+  - SDWebImageSVGCoder (1.6.1):
+    - SDWebImage/Core (~> 5.6)
+  - SDWebImageSwiftUI (2.2.3):
+    - SDWebImage (~> 5.10)
+  - WrappingHStackLayout (0.1.2)
+
+DEPENDENCIES:
+  - SDWebImageSVGCoder
+  - SDWebImageSwiftUI
+  - WrappingHStackLayout (~> 0.1.2)
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+    - SDWebImageSVGCoder
+    - SDWebImageSwiftUI
+    - WrappingHStackLayout
+
+SPEC CHECKSUMS:
+  SDWebImage: d47d81bea8a77187896b620dc79c3c528e8906b9
+  SDWebImageSVGCoder: 6fc109f9c2a82ab44510fff410b88b1a6c271ee8
+  SDWebImageSwiftUI: 17396b7889f9abc27231caaeb64c537564284aab
+  WrappingHStackLayout: 50c5ec7184e4074ef09e344a5dfbcee4067969e9
+
+PODFILE CHECKSUM: 75b8cc739ffc23fbabb3b791b37e7cf98eecc26c
+
+COCOAPODS: 1.12.1

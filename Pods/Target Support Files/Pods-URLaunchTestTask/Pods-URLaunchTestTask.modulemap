@@ -1,0 +1,6 @@
+framework module Pods_URLaunchTestTask {
+  umbrella header "Pods-URLaunchTestTask-umbrella.h"
+
+  export *
+  module * { export * }
+}

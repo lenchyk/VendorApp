@@ -1,0 +1,166 @@
+{
+  "vendors": [
+    {
+      "id": 116,
+      "company_name": "Florists + Fashion",
+      "area_served": "Newry",
+      "shop_type": "Bike Shop",
+      "favorited": false,
+      "follow": false,
+      "business_type": "virtual",
+      "cover_photo": {
+        "id": 984,
+        "media_url": "https://cdn-staging.chatsumer.app/eyJidWNrZXQiOiJjaGF0c3VtZXItZ2VuZXJhbC1zdGFnaW5nLXN0b3JhZ2UiLCJrZXkiOiIxMy84ZjMzZTgyNy0yNzIxLTQ3ZjctYjViNS0zM2Q5Y2E2MTM1OGQuanBlZyJ9",
+        "media_type": "image"
+      },
+      "categories": [
+        {
+          "id": 405,
+          "name": "Florists",
+          "image": {
+            "id": 1448,
+            "media_url": "https://media-staging.chatsumer.app/48/1830f855-6315-4d3c-a5dc-088ea826aef2.svg",
+            "media_type": "image"
+          }
+        },
+        {
+          "id": 46,
+          "name": "Fashion Accessories",
+          "image": {
+            "id": 136999,
+            "media_url": "https://media-staging.chatsumer.app/48/1830f855-6315-4d3c-a5dc-088ea826aef2.svg",
+            "media_type": "image"
+          }
+        },
+        {
+          "id": 4299,
+          "name": "Garden",
+          "image": {
+            "id": 134899,
+            "media_url": "https://media-staging.chatsumer.app/48/1830f855-6315-4d3c-a5dc-088ea826aef2.svg",
+            "media_type": "image"
+          }
+        },
+        {
+          "id": 4399,
+          "name": "Home",
+          "image": {
+            "id": 136699,
+            "media_url": "https://media-staging.chatsumer.app/48/1830f855-6315-4d3c-a5dc-088ea826aef2.svg",
+            "media_type": "image"
+          }
+        }
+      ],
+      "tags": [
+        {
+          "id": 990,
+          "name": "BMX",
+          "purpose": "shop"
+        },
+        {
+          "id": 1000,
+          "name": "Giant",
+          "purpose": "shop"
+        },
+        {
+          "id": 1001,
+          "name": "Cycle",
+          "purpose": "shop"
+        },
+        {
+          "id": 1020,
+          "name": "BMX",
+          "purpose": "shop"
+        },
+        {
+          "id": 1030,
+          "name": "Giant",
+          "purpose": "shop"
+        },
+        {
+          "id": 1040,
+          "name": "Cycle",
+          "purpose": "shop"
+        }
+      ]
+    },
+    {
+      "id": 1170,
+      "company_name": "Cafe & Restaurant",
+      "area_served": "Ukraine",
+      "shop_type": "Flowers",
+      "favorited": true,
+      "follow": false,
+      "business_type": "virtual",
+      "cover_photo": {
+        "id": 9800,
+        "media_url": "https://i.imgur.com/OnwEDW3.jpg",
+        "media_type": "image"
+      },
+      "categories": [
+        {
+          "id": 530,
+          "name": "Cafe & Restaurant",
+          "image": {
+            "id": 13440,
+            "media_url": "https://media-staging.chatsumer.app/48/1830f855-6315-4d3c-a5dc-088ea826aef2.svg",
+            "media_type": "image"
+          }
+        }
+      ],
+      "tags": [
+        {
+          "id": 850,
+          "name": "Cafe",
+          "purpose": "shop"
+        }
+      ]
+    },
+    {
+      "id": 1180,
+      "company_name": "Pets",
+      "area_served": "Dnipro",
+      "shop_type": "Bar",
+      "favorited": false,
+      "follow": false,
+      "business_type": "physical",
+      "cover_photo": {
+        "id": 1381,
+        "media_url": "https://i.imgur.com/CzXTtJV.jpg",
+        "media_type": "image"
+      },
+      "categories": [
+        {
+          "id": 540,
+          "name": "Pets",
+          "image": {
+            "id": 13450,
+            "media_url": "https://media-staging.chatsumer.app/48/1830f855-6315-4d3c-a5dc-088ea826aef2.svg",
+            "media_type": "image"
+          }
+        },
+        {
+          "id": 550,
+          "name": "Home",
+          "image": {
+            "id": 13450,
+            "media_url": "https://media-staging.chatsumer.app/48/1830f855-6315-4d3c-a5dc-088ea826aef2.svg",
+            "media_type": "image"
+          }
+        }
+      ],
+      "tags": [
+        {
+          "id": 600,
+          "name": "New",
+          "purpose": "shop"
+        },
+        {
+          "id": 860,
+          "name": "Test",
+          "purpose": "shop"
+        }
+      ]
+    }
+  ]
+}
